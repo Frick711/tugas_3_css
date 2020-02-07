@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{background-color: grey;}
+
+p.pertama{background-color:#C68100;
+	border:1px black solid;
+	font-size:80%;}
+p.kedua{background-color:#024DFB;
+	color: white;
+	font-size:12px;}
+p.ketiga{background-color: white;
+	border: 1px black solid;
+	font-size: 17px;
+	font-weight:"light";
+	font-family: monospace;
+	}
+p.keempat{font-family: fantasy;}
